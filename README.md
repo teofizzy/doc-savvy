@@ -21,7 +21,7 @@ This AI agent can:
 - LLM
 - LangChain for agent orchestration
 - Azure AD + Microsoft Graph API for SharePoint access
-- Vector DB (ChromaDB) for retrieval
+- Vector DB for retrieval
 
 ---
 
