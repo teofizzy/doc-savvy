@@ -1,6 +1,6 @@
 # 🤖 doc-savvy RAG Agent
 
-An AI-powered assistant that reads documents from a SharePoint folder and answers questions, gives recommendations, and generates templates/playbooks — using Retrieval-Augmented Generation (RAG).
+An AI-powered assistant that reads documents from a folder and answers questions, gives recommendations, and generates templates/playbooks — using Retrieval-Augmented Generation (RAG).
 
 ---
 
@@ -8,7 +8,7 @@ An AI-powered assistant that reads documents from a SharePoint folder and answer
 
 This AI agent can:
 
-- Connect to a SharePoint folder and ingest documents
+- Connect to a folder and ingest documents
 - Use embeddings to understand document content
 - Answer questions and generate recommendations based on the files
 - Create structured outputs like templates, checklists, and playbooks
