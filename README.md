@@ -18,7 +18,7 @@ This AI agent can:
 ## 🧠 Tech Stack
 
 - Python 🐍
-- LLM
+- LLMs
 - LangChain for agent orchestration
 - Azure AD + Microsoft Graph API for SharePoint access
 - Vector DB for retrieval
