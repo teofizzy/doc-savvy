@@ -30,5 +30,5 @@ This AI agent can:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/sharepoint-rag-agent.git
-cd sharepoint-rag-agent
+git clone https://github.com/teofizzy/doc-savvy.git
+cd doc-savvy
