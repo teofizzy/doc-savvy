@@ -17,3 +17,13 @@ python-docx
 python-pptx
 pdfplumber
 sentence-transformers
+langchain-community
+PyPDF2
+xmindparser
+openai-whisper
+speechrecognition
+pydub
+beautifulsoup4
+lxml
+xmindparser
+faster-whisper
