@@ -11,7 +11,7 @@ python-dotenv
 llama-index
 requests
 pinecone
-pinecone-client
+pinecone-client<3.0
 msal
 python-docx
 python-pptx
