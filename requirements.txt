@@ -11,7 +11,7 @@ python-dotenv
 llama-index
 requests
 pinecone
-pinecone-client<3.0
+pinecone-client
 msal
 python-docx
 python-pptx
@@ -30,3 +30,5 @@ faster-whisper
 langchain-pinecone
 pinecone-notebooks
 langchain-huggingface
+pytesseract
+pdf2image
