@@ -27,3 +27,5 @@ beautifulsoup4
 lxml
 xmindparser
 faster-whisper
+langchain-pinecone
+pinecone-notebooks
