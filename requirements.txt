@@ -32,3 +32,6 @@ pinecone-notebooks
 langchain-huggingface
 pytesseract
 pdf2image
+bitsandbytes
+xformers
+accelerate
